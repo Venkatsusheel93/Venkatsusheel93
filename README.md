@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venkatsusheel93
+- 👋 Hi, I’m Venkat_susheel_sanne
 - 👀 I’m interested in any Data Analyst/ Business Analyst role ..
 - 🌱 I’m currently learning Data Analysis..
 - 💞️ I’m looking to collaborate on any data project to show case my skills and build my skills as well...
